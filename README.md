@@ -1,2 +1,2 @@
-# Eraser-Discord BOT
- This Is a Basic Discord BOT With (Discord JDA Dependencies Pre-Defined)
+# EraserHead Discord[BOT]
+ This Is A Basic Discord Bot With JDA Dependencies Pre-Defined.
