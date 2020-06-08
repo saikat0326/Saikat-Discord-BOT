@@ -17,11 +17,7 @@ I Would Also Suggest You To Go Through The Discord JDA Documentation
 Finally Some Ways To Contact Me :
 
 Instagram : @saikat._
-
 Discord Server : Official R3vivalX
-
-Website : https;//bit.ly/R3vivalX
-
+Website : https://bit.ly/R3vivalX
 Facebook : saikat46
-
 Twitter : SaikatDas_
